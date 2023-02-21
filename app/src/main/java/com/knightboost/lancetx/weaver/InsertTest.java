@@ -37,7 +37,7 @@ public class InsertTest {
             return;
         }
         Object curO = This.get();
-        Log.e("insertTest", curO + " onCreate");
+        Log.e("insertTest", curO + " 调用 onCreate");
         long end = System.currentTimeMillis();
     }
 
