@@ -13,4 +13,10 @@
         android:layout_height="wrap_content"
         android:text="构造函数插桩场景调用"/>
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_create_bitmap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="创建Bitmap"/>
+
 </androidx.appcompat.widget.LinearLayoutCompat>

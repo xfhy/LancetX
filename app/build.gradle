@@ -20,7 +20,7 @@ LancetX{
             enable true
         }
         proxyTest {
-            enable false
+            enable true
         }
         replaceInvokeTest {
             enable true
